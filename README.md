@@ -3,6 +3,33 @@
 
 Built a cross-platform Flutter chat application supporting real-time 1-to-1 and group messaging with Socket.IO. Implemented file sharing, emoji reactions, and presence indicators. Integrated WebRTC mesh architecture for low-latency, high-quality video calls. Designed scalable MongoDB schemas and Express.js APIs to handle thousands of concurrent users.
 
+https://github.com/user-attachments/assets/596de40a-7caa-4a7b-9ed8-29487a6c5b3a
+
+https://github.com/user-attachments/assets/ff3b9993-4f35-4a58-8640-4431d23e893e
+
+https://github.com/user-attachments/assets/9e7e2b68-65a1-4f39-81c3-3c1a67e118c2
+
+https://github.com/user-attachments/assets/4471b1c7-af4d-4cd7-a241-c9e262eb021e
+
+https://github.com/user-attachments/assets/b43069e1-c715-4468-a9b4-f0d3f6eff5bc
+
+
+https://github.com/user-attachments/assets/1aa06e93-3026-4a5b-9eee-03a23c6947fc
+
+
+https://github.com/user-attachments/assets/e7da98d6-42f6-4755-9d2d-e902d784e24a
+
+
+https://github.com/user-attachments/assets/59e733fc-f7c7-474e-9872-95de5d084117
+
+
+https://github.com/user-attachments/assets/8c36ea5b-a732-4f19-95e1-8335b0be6466
+
+
+https://github.com/user-attachments/assets/52b9a40f-57c3-4eed-827a-76ffea07b7e4
+
+
+
 ---
 ### In-Video Screen (During Call)
 - Simple and clean group video calling interface.  
